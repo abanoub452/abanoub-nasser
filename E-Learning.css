@@ -1,0 +1,112 @@
+.d1{
+    background-color:burlywood;
+}
+
+
+.p1{
+    
+    font-size: 40px;
+    text-align: center;
+    font-variant-east-asian:normal;
+    color:forestgreen;
+    text-decoration: none;
+    font-family:sans-serif;
+    
+
+}
+.p1:hover{
+    color:cadetblue ;
+    font-weight:bold
+    
+    
+}
+.p2{
+    float:right;
+    font-style:italic;
+    font-family:monospace;
+    font-size: 40px;
+    color:black;
+    text-decoration: none;
+ 
+}
+.p2:hover{
+     color:cadetblue ;
+    font-weight:bold;
+    
+}
+.img{
+    
+    float: left;
+    width: 200px;
+}
+.img2{
+    
+    
+    float: right;
+    width: 175px;
+    height: 200px;
+    
+}
+.online {
+   text-align: center;
+    background-color:cadetblue;
+    height: 200px;
+    font-size: 50px
+}
+.text{
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+.Eee{
+   word-spacing: 10px;
+    
+    padding: 20px;
+    height: 500px;
+    width: 100%;
+    background-image: url(e%20learning%20fagraaa.webp);
+    background-size: cover;
+    
+}  
+.cc{
+    font-size: 20px;
+    
+}
+.p4{
+    width: 230px;
+    height: 30px;
+    
+    
+}
+.p5{
+    width: 300px;
+    height: 100px;
+}
+.submit{
+    color:darkcyan;
+    width: 100px;
+    height: 40px;
+    
+}
+.submit:hover{
+    color:darksalmon;
+    
+    
+}
+.book{
+    width: 800px;
+    height:500px;
+    
+}
+.css{
+    
+    color: darkred;
+}
+.css2{
+    color: green;
+}
